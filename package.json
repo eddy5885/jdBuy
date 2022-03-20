@@ -1,0 +1,24 @@
+{
+  "name": "jdbuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iameddy/jdBuy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iameddy/jdBuy/issues"
+  },
+  "homepage": "https://github.com/iameddy/jdBuy#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
