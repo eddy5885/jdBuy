@@ -1,6 +1,7 @@
 import http from './http.js'
 
-
+// 索尼相机
+// https://item.jd.com/100031847124.html
 
 const url1 = 'https://yushou.jd.com/youshouinfo.action?callback=fetchJSON&sku=100031847124&_=1584107644620'
 
